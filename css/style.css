@@ -27,7 +27,7 @@ html {
     text-align: right;
     font-family: 'Courier New', Courier, monospace;
     padding: 20px 5px;
-    font-size: 40px;
+    font-size: 60px;
 }
 
 .calc-button {
@@ -63,4 +63,8 @@ html {
 
 .calc-button:last-child:hover {
     background-color: #dfb07e;   
+}
+
+.calc-button:last-child:active {
+    background-color: #dd8d37;
 }
